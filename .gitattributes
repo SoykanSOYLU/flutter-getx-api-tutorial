@@ -1,0 +1,9 @@
+# Platform klasörlerini dil istatistiklerinden hariç tut
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+web/** linguist-vendored
+
+*.dart linguist-detectable=true
