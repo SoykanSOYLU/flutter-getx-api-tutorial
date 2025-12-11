@@ -240,7 +240,7 @@ Bu proje açık kaynaklıdır ve eğitim amaçlı kullanılabilir.
 
 ---
 
-## 👨‍💻 Yazar
+## 👨‍💻 Yazar - nakyoS
 
 Eğitim ve öğretim amacıyla hazırlanmıştır.
 
